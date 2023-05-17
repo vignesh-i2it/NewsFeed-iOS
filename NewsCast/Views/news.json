@@ -1,0 +1,137 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Jagmeet Singh",
+      "title": "Lightspeed backs Indian startup Zyod aiming to make apparel manufacturing more efficient",
+      "description": "Zyod, an Indian startup offering apparel sourcing and manufacturing, has raised $3.5 million in a seed funding led by Lightspeed.",
+      "url": "https://techcrunch.com/2023/04/03/zyod-funding-lightspeed/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/cloth-manufacturing-india-getty.jpg?resize=1200,802",
+      "publishedAt": "2023-04-04T05:30:26Z",
+      "content": "Zyod, an Indian startup offering apparel sourcing and manufacturing to fashion brands globally, has raised $3.5 million in a seed funding led by Lightspeed Venture India Partners.\r\nAs the e-commerce … [+4332 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Connie Loizos",
+      "title": "Amid a boom in AI accelerators, a UC Berkeley-focused outfit, House Fund, swings open its doors",
+      "description": "Companies at the forefront of AI would naturally like to stay at the forefront, so it’s no surprise they want to stay close to smaller startups that are putting some of their newest advancements to work. Last month, for example, Neo, a startup accelerator fou…",
+      "url": "https://techcrunch.com/2023/04/03/amid-a-boom-in-ai-accelerators-a-uc-berkeley-focused-outfit-house-fund-swings-open-its-doors/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/TheHouseAIAccelerator_TechCrunch.jpg?resize=1200,530",
+      "publishedAt": "2023-04-04T04:01:23Z",
+      "content": "Companies at the forefront of AI would naturally like to stay at the forefront, so it’s no surprise they want to stay close to smaller startups that are putting some of their newest advancements to w… [+3537 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ivan Mehta",
+      "title": "After New Zealand, Australia bans TikTok on official devices",
+      "description": "Australia banned TikTok on official devices today and joined a long list of western countries including the US and the UK to make such move.",
+      "url": "https://techcrunch.com/2023/04/03/after-new-zealand-australia-bans-tiktok-on-official-devices/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248389538.jpg?resize=1200,799",
+      "publishedAt": "2023-04-04T03:55:11Z",
+      "content": "Australia joined a long list of western countries banning TikTok on official devices today. Attorney-General Mark Dreyfus announced the move today and said the prohibition will be implemented  as soo… [+2005 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Natasha Mascarenhas",
+      "title": "‘There’s too much opportunity’ in Cerebral Valley",
+      "description": "A dispatch from Cerebral Valley, where over 200 top AI experts and enthusiasts spoke about riding an unprecedented wave.",
+      "url": "https://techcrunch.com/2023/04/03/cerebral-valley-ai-summit/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-675469672.jpg?resize=1200,800",
+      "publishedAt": "2023-04-03T23:46:57Z",
+      "content": "Evan Buhler moved to San Franciscos Hayes Valley three months ago to build an AI company that would combine the buzzy technology and his experience as a startup attorney. At the time, he didnt realiz… [+1189 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Ingrid Lunden",
+      "title": "Quantexa raises $129M at a $1.8B valuation to help navigate online fraud and customer data management",
+      "description": "Financial fraud and other online crime continue to present major threats to businesses, and they remain a key focus for regulators requiring more rigorous efforts to keep illicit activity at bay. Now, Quantexa — one of the big startups providing AI and other …",
+      "url": "https://techcrunch.com/2023/04/03/quantexa-raises-129m-at-a-1-8b-valuation-to-help-navigate-online-fraud-and-customer-data-management/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-701055376.jpg?resize=1200,585",
+      "publishedAt": "2023-04-03T23:06:31Z",
+      "content": "Financial fraud and other online crime continue to present major threats to businesses, and they remain a key focus for regulators requiring more rigorous efforts to keep illicit activity at bay. Now… [+3850 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Bellan",
+      "title": "Black former Tesla worker payout for racial bias slashed from $15M to $3.2M",
+      "description": "Owen Diaz, the Black former worker at Tesla's Fremont factory, has seen his payout in a racial bias lawsuit slashed from $15M to $3.2M.",
+      "url": "https://techcrunch.com/2023/04/03/black-former-tesla-worker-payout-for-racial-bias-slashed-from-15m-to-3-2m/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1008732780.jpeg?resize=1200,800",
+      "publishedAt": "2023-04-03T22:45:20Z",
+      "content": "Owen Diaz, the Black former elevator operator at Tesla’s Fremont factory, has seen his payout in a racial bias lawsuit slashed from $15 million to $3.2 million.\r\nMonday’s verdict from a federal jury … [+4284 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Christine Hall",
+      "title": "Daily Crunch: Patreon rival Fanfix projects paying creators $50M by end of 2023",
+      "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+      "url": "https://techcrunch.com/2023/04/03/daily-crunch-patreon-rival-fanfic-projects-paying-creators-50-million-by-end-of-2023/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/11/Screen-Shot-2022-11-18-at-9.20.04-AM.png?resize=1200,683",
+      "publishedAt": "2023-04-03T20:46:01Z",
+      "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here.\r\nWhat up, Crunchers! Welcome back to Monday Crunch, where we sift t… [+2898 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Amanda Silberling",
+      "title": "Twitter’s new homepage logo is very doge-y",
+      "description": "Breaking news: a 51-year-old man has made a joke that reeks of the same sophistication a 13-year-old boy might bring to Reddit.",
+      "url": "https://techcrunch.com/2023/04/03/twitters-new-homepage-logo-is-very-doge-y/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/twitter-doge-icon.jpg?resize=1200,645",
+      "publishedAt": "2023-04-03T18:21:05Z",
+      "content": "Breaking news: a 51-year-old man has made a joke that reeks of the same sophistication a 13-year-old boy might bring to Reddit.\r\nAfter Twitter’s botched attempt to remove legacy blue checkmarks from … [+1280 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Romain Dillet",
+      "title": "Zealy is an achievement system for web3 communities",
+      "description": "Zealy helps web3 companies engage with their communities by giving them tasks that they can achieve in exchange for various rewards.",
+      "url": "https://techcrunch.com/2023/04/03/zealy-is-an-achievement-system-for-web3-communities/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/Zealy-founding-team.jpg?resize=1200,674",
+      "publishedAt": "2023-04-03T16:20:54Z",
+      "content": "Meet Zealy, a French startup that you may already know under the name Crew3. Zealy helps web3 (and web2) companies engage with their communities by giving them tasks that they can achieve in exchange… [+2903 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Paul Sawers",
+      "title": "Dozer exits stealth to help any developer build real-time data apps 'in minutes'",
+      "description": "Dozer touts itself as as a plug-and-play infrastructure backend that allows any developer to create low-latency data APIs.",
+      "url": "https://techcrunch.com/2023/04/03/dozer-exits-stealth-to-help-any-developer-build-real-time-data-apps-in-minutes/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1322437940-e1680174106448.jpg?resize=1200,675",
+      "publishedAt": "2023-03-30T12:10:15Z",
+      "content": "Data has emerged as one of the world’s greatest resources, underpinning everything from video-recommendation engines and digital banking, to the burgeoning AI revolution. But in a world where data ha… [+6433 chars]"
+    }
+  ]
+}
+
